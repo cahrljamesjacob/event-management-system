@@ -6,8 +6,6 @@ import com.cahrljamesjacob.event.management.system.service.EventService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
-import javax.xml.ws.Response;
 import java.util.List;
 
 @RestController
